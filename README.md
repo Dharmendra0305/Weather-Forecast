@@ -3,13 +3,13 @@ A real-time weather forecast application built in Java that retrieves current we
 
 🔧 Tech Stack
 - Backend: Java, Spring Boot, Maven
-- Frontend: HTML, CSS (Bootstrap or custom)
-- APIs Used: OpenWeatherMap (or similar)
+- Frontend: HTML, CSS (Bootstrap)
+- APIs Used: OpenWeatherMap
 - Location Detection: IP-based geolocation or browser API
 - Deployment: GitHub Pages / Spring Boot live preview
   
 ✨ Features
-- 🌍 Auto-detects user location for personalized forecasts
+- 🌍 Auto-detects user location for personalised forecasts
 - 🌡️ Displays temperature, humidity, wind speed, and conditions
 - 📱 Fully responsive design
 - ⚙️ Secure config management using .env or environment variables

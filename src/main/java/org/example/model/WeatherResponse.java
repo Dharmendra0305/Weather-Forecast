@@ -5,8 +5,7 @@ import lombok.Setter;
 
 import java.util.List;
 
-@Setter
-@Getter
+@Setter @Getter
 public class WeatherResponse
 {
     private String name;

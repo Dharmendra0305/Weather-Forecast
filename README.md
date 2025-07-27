@@ -9,7 +9,7 @@ A real-time weather forecast application built in Java that retrieves current we
 - Deployment: GitHub Pages / Spring Boot live preview
   
 ✨ Features
-- 🌍 Auto-detects user location for personalised forecasts
+- 🌍 Auto-detects user location for personalized forecasts
 - 🌡️ Displays temperature, humidity, wind speed, and conditions
 - 📱 Fully responsive design
 - ⚙️ Secure config management using .env or environment variables

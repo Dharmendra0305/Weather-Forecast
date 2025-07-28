@@ -23,3 +23,7 @@ A real-time weather forecast application built in Java that retrieves current we
 <h2>Home Page</h2>
 
 ![Weather WebSite](https://github.com/Dharmendra0305/Weather-Forecast/blob/0cdf976567f28ae10353a4256b05077eb65f14e1/Home%20Page.png)
+
+<h2>Weather Page</h2>
+
+![Weather WebSite](https://github.com/Dharmendra0305/Weather-Forecast/blob/7b1d0a439208439777858f279bfbe4a47478cbcc/Weather%20Page.png)

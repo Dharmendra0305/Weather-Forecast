@@ -19,3 +19,7 @@ A real-time weather forecast application built in Java that retrieves current we
 - Set up your API key securely
 - Run the Spring Boot server
 - Enjoy live weather updates in your browser
+
+<h2>Home Page</h2>
+
+![Weather WebSite](https://github.com/Dharmendra0305/Weather-Forecast/blob/0cdf976567f28ae10353a4256b05077eb65f14e1/Home%20Page.png)
